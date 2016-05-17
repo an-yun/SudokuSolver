@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">数独求解器</string>
+    <string name="action_settings">关于数独求解器</string>
+</resources>
